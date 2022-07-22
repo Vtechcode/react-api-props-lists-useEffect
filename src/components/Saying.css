@@ -1,0 +1,29 @@
+.anime {
+    
+    background-color: green;
+    color: white;
+    margin: 0;
+}
+
+.character {
+    margin: 0;
+    background-color: cyan;
+    color: white;
+}
+
+.quote {
+    margin: 0;
+    background-color: yellowgreen;
+    color: white;
+}
+
+.info {
+    display: flex;
+    border: solid black 1px;
+    width: 500px;
+    height: 100%;
+    flex-direction: column;
+    
+    margin: 0 auto;
+    margin-top: 20px
+}
